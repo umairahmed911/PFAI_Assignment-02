@@ -1,8 +1,0 @@
-numpy
-pandas
-seaborn
-matplotlib
-scikit-learn
-onnx
-onnxruntime
-skl2onnx
